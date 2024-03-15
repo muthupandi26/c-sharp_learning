@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project\\learn\\MyFirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3FA5A9-2365-4C62-B4DA-81174176484C}|MyFirstProject\\MyFirstProject.csproj|c:\\project\\learn\\myfirstproject\\myfirstproject\\probelms\\reversesentense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3FA5A9-2365-4C62-B4DA-81174176484C}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\probelms\\reversesentense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3FA5A9-2365-4C62-B4DA-81174176484C}|MyFirstProject\\MyFirstProject.csproj|C:\\project\\learn\\MyFirstProject\\myfirstproject\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3FA5A9-2365-4C62-B4DA-81174176484C}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MyFirstProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3FA5A9-2365-4C62-B4DA-81174176484C}|MyFirstProject\\MyFirstProject.csproj|C:\\project\\learn\\MyFirstProject\\myfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3FA5A9-2365-4C62-B4DA-81174176484C}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3FA5A9-2365-4C62-B4DA-81174176484C}|MyFirstProject\\MyFirstProject.csproj|C:\\project\\learn\\MyFirstProject\\myfirstproject\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3FA5A9-2365-4C62-B4DA-81174176484C}|MyFirstProject\\MyFirstProject.csproj|solutionrelative:myfirstproject\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyFirstProject",
+              "DocumentMoniker": "C:\\project\\learn\\MyFirstProject\\MyFirstProject\\MyFirstProject.csproj",
+              "RelativeDocumentMoniker": "MyFirstProject\\MyFirstProject.csproj",
+              "ToolTip": "C:\\project\\learn\\MyFirstProject\\MyFirstProject\\MyFirstProject.csproj*",
+              "RelativeToolTip": "MyFirstProject\\MyFirstProject.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-15T10:16:01.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReverseSentense.cs",
+              "DocumentMoniker": "C:\\project\\learn\\MyFirstProject\\MyFirstProject\\Probelms\\ReverseSentense.cs",
+              "RelativeDocumentMoniker": "MyFirstProject\\Probelms\\ReverseSentense.cs",
+              "ToolTip": "C:\\project\\learn\\MyFirstProject\\MyFirstProject\\Probelms\\ReverseSentense.cs",
+              "RelativeToolTip": "MyFirstProject\\Probelms\\ReverseSentense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T09:43:20.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practice.cs",
+              "DocumentMoniker": "C:\\project\\learn\\MyFirstProject\\MyFirstProject\\Practice.cs",
+              "RelativeDocumentMoniker": "MyFirstProject\\Practice.cs",
+              "ToolTip": "C:\\project\\learn\\MyFirstProject\\MyFirstProject\\Practice.cs",
+              "RelativeToolTip": "MyFirstProject\\Practice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:52:20.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\project\\learn\\MyFirstProject\\MyFirstProject\\Employee.cs",
+              "RelativeDocumentMoniker": "MyFirstProject\\Employee.cs",
+              "ToolTip": "C:\\project\\learn\\MyFirstProject\\MyFirstProject\\Employee.cs",
+              "RelativeToolTip": "MyFirstProject\\Employee.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:33:51.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\project\\learn\\MyFirstProject\\MyFirstProject\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstProject\\Program.cs",
+              "ToolTip": "C:\\project\\learn\\MyFirstProject\\MyFirstProject\\Program.cs",
+              "RelativeToolTip": "MyFirstProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:24:43.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
